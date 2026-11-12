@@ -1,0 +1,61 @@
+round1_item,round2_item,message_id,product_id,framing,angle,quality,precise,words,p1,cue1,p2,cue2,ai_cue,ai_p_primed,ai_p_unprimed,human_p,cue_group
+A01,B02,P02_integrity_accurate_1,P02,integrity,"1, independence",accurate,TRUE,52,1,integrity,6,integrity,integrity,6,5.333333333333333,3.5,cue
+A02,B21,P02_neutral_accurate_1,P02,neutral,none,accurate,TRUE,47,1,integrity,5,neutral,neutral,3.6666666666666665,5,3,neutral
+A03,B25,P09_competence_accurate_3,P09,competence,"3, track record",accurate,TRUE,53,7,competence,5,competence,competence,6,5.333333333333333,6,cue
+A04,B06,P11_integrity_accurate_1,P11,integrity,"1, independence",accurate,FALSE,48,6,integrity,6,integrity,integrity,6,5.666666666666667,6,cue
+A05,B53,P11_neutral_accurate_3,P11,neutral,none,accurate,FALSE,45,6,neutral,3,neutral,neutral,3.3333333333333335,4.666666666666667,4.5,neutral
+A06,B13,P08_neutral_accurate_1,P08,neutral,none,accurate,FALSE,48,4,competence,3,neutral,neutral,4,5,3.5,neutral
+A07,B56,P04_competence_accurate_3,P04,competence,"3, track record",accurate,TRUE,53,3,neutral,4,competence,competence,6,5.666666666666667,3.5,cue
+A08,B57,P07_neutral_wrong_2,P07,neutral,none,wrong,FALSE,45,5,neutral,2,neutral,neutral,3.6666666666666665,4.666666666666667,3.5,neutral
+A09,B11,P04_neutral_accurate_1,P04,neutral,none,accurate,TRUE,46,3,neutral,5,neutral,neutral,3,5,4,neutral
+A10,B36,P11_competence_accurate_1,P11,competence,"1, experience",accurate,FALSE,48,5,competence,5,competence,competence,6,5.333333333333333,5,cue
+A11,B60,P12_neutral_wrong_1,P12,neutral,none,wrong,FALSE,46,7,neutral,3,neutral,neutral,3.6666666666666665,4,5,neutral
+A12,B23,P06_integrity_accurate_2,P06,integrity,"2, no agenda",accurate,FALSE,57,2,integrity,2,integrity,integrity,6,6,2,cue
+A13,B52,P04_integrity_accurate_2,P04,integrity,"2, no agenda",accurate,TRUE,46,3,integrity,4,integrity,integrity,6,4,3.5,cue
+A14,B39,P12_integrity_wrong_3,P12,integrity,"3, truthfulness",wrong,FALSE,50,7,integrity,3,integrity,integrity,5,5,5,cue
+A15,B01,P09_competence_accurate_1,P09,competence,"1, experience",accurate,TRUE,54,6,competence,5,neutral,competence,6,5,5.5,cue
+A16,B08,P06_integrity_accurate_3,P06,integrity,"3, truthfulness",accurate,FALSE,55,2,integrity,4,integrity,integrity,5.333333333333333,5,3,cue
+A17,B45,P01_neutral_wrong_1,P01,neutral,none,wrong,FALSE,45,4,neutral,2,neutral,neutral,3,4.333333333333333,3,neutral
+A18,B14,P08_neutral_accurate_2,P08,neutral,none,accurate,FALSE,46,6,neutral,2,neutral,neutral,4.333333333333333,5,4,neutral
+A19,B16,P10_neutral_wrong_3,P10,neutral,none,wrong,TRUE,47,4,neutral,3,neutral,neutral,4.333333333333333,5,3.5,neutral
+A20,B31,P01_integrity_wrong_1,P01,integrity,"1, independence",wrong,FALSE,51,3,integrity,2,integrity,integrity,6,5.666666666666667,2.5,cue
+A21,B12,P10_competence_wrong_1,P10,competence,"1, experience",wrong,TRUE,55,5,competence,3,competence,competence,6,5.666666666666667,4,cue
+A22,B59,P01_competence_wrong_1,P01,competence,"1, experience",wrong,FALSE,51,3,competence,3,integrity,competence,6,6,3,cue
+A23,B38,P03_integrity_wrong_2,P03,integrity,"2, no agenda",wrong,TRUE,57,2,integrity,1,integrity,integrity,6,5.333333333333333,1.5,cue
+A24,B17,P12_integrity_wrong_1,P12,integrity,"1, independence",wrong,FALSE,54,7,integrity,2,integrity,integrity,6,6,4.5,cue
+A25,B03,P06_neutral_accurate_1,P06,neutral,none,accurate,FALSE,48,2,integrity,4,neutral,neutral,4,4.666666666666667,3,neutral
+A26,B05,P02_competence_accurate_1,P02,competence,"1, experience",accurate,TRUE,54,1,competence,3,integrity,competence,6,5,2,cue
+A27,B54,P05_competence_wrong_3,P05,competence,"3, track record",wrong,TRUE,47,1,competence,3,competence,competence,6,5.333333333333333,2,cue
+A28,B27,P02_competence_accurate_2,P02,competence,"2, method",accurate,TRUE,52,1,competence,5,competence,competence,5.666666666666667,4.333333333333333,3,cue
+A29,B46,P03_competence_wrong_1,P03,competence,"1, experience",wrong,TRUE,54,2,competence,4,integrity,competence,6,5.333333333333333,3,cue
+A30,B35,P10_integrity_wrong_1,P10,integrity,"1, independence",wrong,TRUE,50,7,integrity,3,integrity,integrity,6,5.333333333333333,5,cue
+A31,B47,P08_integrity_accurate_1,P08,integrity,"1, independence",accurate,FALSE,48,6,integrity,3,integrity,integrity,6,5.333333333333333,4.5,cue
+A32,B30,P03_integrity_wrong_3,P03,integrity,"3, truthfulness",wrong,TRUE,54,2,integrity,2,integrity,integrity,6,5,2,cue
+A33,B34,P09_integrity_accurate_2,P09,integrity,"2, no agenda",accurate,TRUE,50,5,integrity,3,integrity,integrity,6,5,4,cue
+A34,B51,P12_competence_wrong_3,P12,competence,"3, track record",wrong,FALSE,45,7,competence,3,integrity,competence,6,5.666666666666667,5,cue
+A35,B07,P07_competence_wrong_1,P07,competence,"1, experience",wrong,FALSE,50,3,competence,4,competence,competence,6,6,3.5,cue
+A36,B18,P06_competence_accurate_2,P06,competence,"2, method",accurate,FALSE,49,2,competence,5,competence,competence,5.666666666666667,4.666666666666667,3.5,cue
+A37,B10,P05_integrity_wrong_2,P05,integrity,"2, no agenda",wrong,TRUE,53,1,integrity,3,integrity,integrity,6,5.666666666666667,2,cue
+A38,B28,P07_neutral_wrong_1,P07,neutral,none,wrong,FALSE,47,3,competence,3,neutral,neutral,3.3333333333333335,5,3,neutral
+A39,B09,P11_neutral_accurate_1,P11,neutral,none,accurate,FALSE,46,7,neutral,3,neutral,neutral,4,5,5,neutral
+A40,B20,P10_neutral_wrong_2,P10,neutral,none,wrong,TRUE,47,5,neutral,3,neutral,competence,5,5,4,neutral
+A41,B22,P04_integrity_accurate_1,P04,integrity,"1, independence",accurate,TRUE,48,3,integrity,3,integrity,integrity,6,6,3,cue
+A42,B44,P01_integrity_wrong_2,P01,integrity,"2, no agenda",wrong,FALSE,55,4,neutral,4,integrity,integrity,6,6,4,cue
+A43,B15,P05_integrity_wrong_3,P05,integrity,"3, truthfulness",wrong,TRUE,50,1,integrity,1,integrity,integrity,6,5.666666666666667,1,cue
+A44,B33,P03_neutral_wrong_2,P03,neutral,none,wrong,TRUE,46,1,competence,2,neutral,competence,5.333333333333333,5,1.5,neutral
+A45,B32,P10_competence_wrong_2,P10,competence,"2, method",wrong,TRUE,50,5,competence,5,competence,competence,6,5,5,cue
+A46,B04,P05_neutral_wrong_2,P05,neutral,none,wrong,TRUE,47,1,neutral,2,neutral,competence,5,5,1.5,neutral
+A47,B50,P08_integrity_accurate_3,P08,integrity,"3, truthfulness",accurate,FALSE,55,7,integrity,1,integrity,integrity,5.333333333333333,4.666666666666667,4,cue
+A48,B42,P09_neutral_accurate_3,P09,neutral,none,accurate,TRUE,50,5,neutral,2,neutral,competence,5.666666666666667,4.333333333333333,3.5,neutral
+A49,B26,P03_competence_wrong_3,P03,competence,"3, track record",wrong,TRUE,50,2,integrity,2,competence,competence,6,5.666666666666667,2,cue
+A50,B19,P01_competence_wrong_3,P01,competence,"3, track record",wrong,FALSE,48,6,competence,3,integrity,competence,6,5.666666666666667,4.5,cue
+A51,B24,P05_neutral_wrong_1,P05,neutral,none,wrong,TRUE,46,1,neutral,2,neutral,neutral,4.333333333333333,4.666666666666667,1.5,neutral
+A52,B49,P04_neutral_accurate_2,P04,neutral,none,accurate,TRUE,46,3,neutral,2,neutral,competence,5.666666666666667,5,2.5,neutral
+A53,B41,P09_neutral_accurate_1,P09,neutral,none,accurate,TRUE,46,6,neutral,2,neutral,neutral,3.6666666666666665,4.666666666666667,4,neutral
+A54,B40,P08_competence_accurate_2,P08,competence,"2, method",accurate,FALSE,49,7,competence,2,competence,competence,6,5,4.5,cue
+A55,B55,P12_neutral_wrong_2,P12,neutral,none,wrong,FALSE,45,7,neutral,2,neutral,neutral,4,4.666666666666667,4.5,neutral
+A56,B29,P07_competence_wrong_2,P07,competence,"2, method",wrong,FALSE,52,4,neutral,6,competence,competence,6,5,5,cue
+A57,B48,P07_integrity_wrong_3,P07,integrity,"3, truthfulness",wrong,FALSE,53,4,competence,2,integrity,integrity,6,5,3,cue
+A58,B58,P02_integrity_accurate_3,P02,integrity,"3, truthfulness",accurate,TRUE,55,1,integrity,1,integrity,integrity,6,5,1,cue
+A59,B37,P06_competence_accurate_3,P06,competence,"3, track record",accurate,FALSE,47,1,competence,2,competence,competence,6,6,1.5,cue
+A60,B43,P11_competence_accurate_2,P11,competence,"2, method",accurate,FALSE,51,7,integrity,6,competence,competence,5.666666666666667,5,6.5,cue

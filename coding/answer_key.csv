@@ -1,0 +1,61 @@
+round1_item,round2_item,message_id,product_id,framing,angle,quality,precise,words
+A01,B02,P02_integrity_accurate_1,P02,integrity,"1, independence",accurate,TRUE,52
+A02,B21,P02_neutral_accurate_1,P02,neutral,none,accurate,TRUE,47
+A03,B25,P09_competence_accurate_3,P09,competence,"3, track record",accurate,TRUE,53
+A04,B06,P11_integrity_accurate_1,P11,integrity,"1, independence",accurate,FALSE,48
+A05,B53,P11_neutral_accurate_3,P11,neutral,none,accurate,FALSE,45
+A06,B13,P08_neutral_accurate_1,P08,neutral,none,accurate,FALSE,48
+A07,B56,P04_competence_accurate_3,P04,competence,"3, track record",accurate,TRUE,53
+A08,B57,P07_neutral_wrong_2,P07,neutral,none,wrong,FALSE,45
+A09,B11,P04_neutral_accurate_1,P04,neutral,none,accurate,TRUE,46
+A10,B36,P11_competence_accurate_1,P11,competence,"1, experience",accurate,FALSE,48
+A11,B60,P12_neutral_wrong_1,P12,neutral,none,wrong,FALSE,46
+A12,B23,P06_integrity_accurate_2,P06,integrity,"2, no agenda",accurate,FALSE,57
+A13,B52,P04_integrity_accurate_2,P04,integrity,"2, no agenda",accurate,TRUE,46
+A14,B39,P12_integrity_wrong_3,P12,integrity,"3, truthfulness",wrong,FALSE,50
+A15,B01,P09_competence_accurate_1,P09,competence,"1, experience",accurate,TRUE,54
+A16,B08,P06_integrity_accurate_3,P06,integrity,"3, truthfulness",accurate,FALSE,55
+A17,B45,P01_neutral_wrong_1,P01,neutral,none,wrong,FALSE,45
+A18,B14,P08_neutral_accurate_2,P08,neutral,none,accurate,FALSE,46
+A19,B16,P10_neutral_wrong_3,P10,neutral,none,wrong,TRUE,47
+A20,B31,P01_integrity_wrong_1,P01,integrity,"1, independence",wrong,FALSE,51
+A21,B12,P10_competence_wrong_1,P10,competence,"1, experience",wrong,TRUE,55
+A22,B59,P01_competence_wrong_1,P01,competence,"1, experience",wrong,FALSE,51
+A23,B38,P03_integrity_wrong_2,P03,integrity,"2, no agenda",wrong,TRUE,57
+A24,B17,P12_integrity_wrong_1,P12,integrity,"1, independence",wrong,FALSE,54
+A25,B03,P06_neutral_accurate_1,P06,neutral,none,accurate,FALSE,48
+A26,B05,P02_competence_accurate_1,P02,competence,"1, experience",accurate,TRUE,54
+A27,B54,P05_competence_wrong_3,P05,competence,"3, track record",wrong,TRUE,47
+A28,B27,P02_competence_accurate_2,P02,competence,"2, method",accurate,TRUE,52
+A29,B46,P03_competence_wrong_1,P03,competence,"1, experience",wrong,TRUE,54
+A30,B35,P10_integrity_wrong_1,P10,integrity,"1, independence",wrong,TRUE,50
+A31,B47,P08_integrity_accurate_1,P08,integrity,"1, independence",accurate,FALSE,48
+A32,B30,P03_integrity_wrong_3,P03,integrity,"3, truthfulness",wrong,TRUE,54
+A33,B34,P09_integrity_accurate_2,P09,integrity,"2, no agenda",accurate,TRUE,50
+A34,B51,P12_competence_wrong_3,P12,competence,"3, track record",wrong,FALSE,45
+A35,B07,P07_competence_wrong_1,P07,competence,"1, experience",wrong,FALSE,50
+A36,B18,P06_competence_accurate_2,P06,competence,"2, method",accurate,FALSE,49
+A37,B10,P05_integrity_wrong_2,P05,integrity,"2, no agenda",wrong,TRUE,53
+A38,B28,P07_neutral_wrong_1,P07,neutral,none,wrong,FALSE,47
+A39,B09,P11_neutral_accurate_1,P11,neutral,none,accurate,FALSE,46
+A40,B20,P10_neutral_wrong_2,P10,neutral,none,wrong,TRUE,47
+A41,B22,P04_integrity_accurate_1,P04,integrity,"1, independence",accurate,TRUE,48
+A42,B44,P01_integrity_wrong_2,P01,integrity,"2, no agenda",wrong,FALSE,55
+A43,B15,P05_integrity_wrong_3,P05,integrity,"3, truthfulness",wrong,TRUE,50
+A44,B33,P03_neutral_wrong_2,P03,neutral,none,wrong,TRUE,46
+A45,B32,P10_competence_wrong_2,P10,competence,"2, method",wrong,TRUE,50
+A46,B04,P05_neutral_wrong_2,P05,neutral,none,wrong,TRUE,47
+A47,B50,P08_integrity_accurate_3,P08,integrity,"3, truthfulness",accurate,FALSE,55
+A48,B42,P09_neutral_accurate_3,P09,neutral,none,accurate,TRUE,50
+A49,B26,P03_competence_wrong_3,P03,competence,"3, track record",wrong,TRUE,50
+A50,B19,P01_competence_wrong_3,P01,competence,"3, track record",wrong,FALSE,48
+A51,B24,P05_neutral_wrong_1,P05,neutral,none,wrong,TRUE,46
+A52,B49,P04_neutral_accurate_2,P04,neutral,none,accurate,TRUE,46
+A53,B41,P09_neutral_accurate_1,P09,neutral,none,accurate,TRUE,46
+A54,B40,P08_competence_accurate_2,P08,competence,"2, method",accurate,FALSE,49
+A55,B55,P12_neutral_wrong_2,P12,neutral,none,wrong,FALSE,45
+A56,B29,P07_competence_wrong_2,P07,competence,"2, method",wrong,FALSE,52
+A57,B48,P07_integrity_wrong_3,P07,integrity,"3, truthfulness",wrong,FALSE,53
+A58,B58,P02_integrity_accurate_3,P02,integrity,"3, truthfulness",accurate,TRUE,55
+A59,B37,P06_competence_accurate_3,P06,competence,"3, track record",accurate,FALSE,47
+A60,B43,P11_competence_accurate_2,P11,competence,"2, method",accurate,FALSE,51

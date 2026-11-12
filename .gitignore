@@ -8,3 +8,8 @@
 .Rproj.user
 .httr-oauth
 .quarto
+
+# Raw coder files contain the coders' names in Excel metadata; keep them local
+coding/responses/
+# Excel lock files
+~$*
