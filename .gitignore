@@ -13,3 +13,5 @@
 coding/responses/
 # Excel lock files
 ~$*
+# Second copy of the raw coder files (folder made in Finder, shown as coding:responses:)
+coding/coding:responses:/
