@@ -22,13 +22,14 @@
 #   - Variants rotate by block, so every message variant is used equally.
 #   - Trial order is shuffled separately for each participant.
 #
-# n_blocks is a placeholder until the Step 7 power analysis gives the
-# sample size (participants = 12 x n_blocks).
+# Sample size from the Step 7 power analysis (18 Nov): 1,200 analysed gives
+# 83% power for H3 at the smallest effect of interest (0.05); 111 blocks
+# (1,332 participants) are recruited to allow ~10% exclusions.
 # =============================================================
 
 library(tidyverse)
 
-n_blocks <- 50                      # placeholder: 50 blocks = 600 participants
+n_blocks <- 111                     # 111 blocks = 1,332 recruited (1,200 analysed + ~10% exclusions; Step 7 power analysis, 18 Nov)
 set.seed(2026)
 
 messages <- read_csv("output/messages.csv", show_col_types = FALSE)
