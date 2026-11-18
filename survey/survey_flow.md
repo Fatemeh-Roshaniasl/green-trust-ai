@@ -15,6 +15,22 @@ Design summary
 
 ---
 
+## Before the study: separate short session (some days earlier)
+
+Attitudes toward AI are measured in a short, unrelated-looking survey some days
+before the experiment, so that asking about AI neither primes the AI label nor
+is changed by it: ATAI scale (Sindermann et al. 2021, KI - Kuenstliche
+Intelligenz), 5 items, two scores (acceptance and fear of AI). The same people
+are re-invited for the main study (e.g. on Prolific).
+Green consumption values (optional measure, added 18 Nov) are measured in the
+same earlier session, because a 15-minute carbon footprint task could shift
+answers about the environment: GREEN scale (Haws, Winterich & Naylor 2014,
+Journal of Consumer Psychology), 6 items. Exploratory use: whether green values
+change reliance, especially on advice that makes a product look greener
+(wrong advice that is too low) vs worse (too high).
+Fallback rule (pre-registered): if a trait measured at the end differs between
+groups, it is analysed as an outcome, not used as a moderator.
+
 ## Screen 1. Welcome and consent
 
 > **Welcome.** In this study you will estimate the carbon footprint of 12
@@ -111,7 +127,11 @@ Schoorman 1995). Item order randomised.
 
 ## Screen E. About you
 
-- Individual-difference measures: *to be decided in Step 7*
+- Propensity to trust: short version of Frazier, Johnson & Fainshmidt (2013),
+  Journal of Trust Research (exact items to be copied from the paper)
+- Need for cognition: NCS-6 (Lins de Holanda Coelho, Hanel & Wolf 2020),
+  6 items, one total score
+- (Attitudes toward AI are measured in the earlier session, see "Before the study")
 - Age, gender, highest education
 - How much do you know about the carbon footprint of products?
   (1 = nothing ... 7 = a lot)
